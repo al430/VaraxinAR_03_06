@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "VaraxinAR_03_06.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\E1\\E1.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\E2\\E2.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\E3\\E3.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
